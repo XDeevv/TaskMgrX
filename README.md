@@ -11,6 +11,14 @@ Fixed: Refresh bug,
 Added: Help page,
 Added: Administrative mode in Setup
 
+Source code:
+--------------------------------
+Source code is a way to use our code to create your own
+creation
+
+Code: 
+
+
 Readme:
 --------------------------------
 
@@ -21,6 +29,6 @@ C# Info: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 
 This is an open source app you can find the source in github
 
------------------
+--------------------------------
 
 Copyright (c) vp10gr all rights reserved
