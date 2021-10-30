@@ -1,5 +1,4 @@
 # TaskMgrX
-#By vp10gr
 The simplest task manager EVER!!!
 
 Changelog:
